@@ -1,0 +1,93 @@
+C:\Users\aluno\source\repos\Estudio\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\aluno\source\repos\Estudio\Estudio\bin\Debug\Estudio.exe
+C:\Users\aluno\source\repos\Estudio\Estudio\bin\Debug\Estudio.pdb
+C:\Users\aluno\source\repos\Estudio\Estudio\bin\Debug\MySql.Data.dll
+C:\Users\aluno\source\repos\Estudio\Estudio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\source\repos\Estudio\Estudio\bin\Debug\MySql.Data.xml
+C:\Users\aluno\source\repos\Estudio\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Estudio\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\aluno\source\repos\Estudio\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\aluno\source\repos\Estudio\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Estudio\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Estudio\Estudio\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\aluno\source\repos\Estudio\Estudio\obj\Debug\Estudio.exe
+C:\Users\aluno\source\repos\Estudio\Estudio\obj\Debug\Estudio.pdb
+C:\Users\aluno\Desktop\Estudio\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\aluno\Desktop\Estudio\Estudio\bin\Debug\Estudio.exe
+C:\Users\aluno\Desktop\Estudio\Estudio\bin\Debug\Estudio.pdb
+C:\Users\aluno\Desktop\Estudio\Estudio\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\Estudio\Estudio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Estudio\Estudio\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Desktop\Estudio\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Estudio\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\aluno\Desktop\Estudio\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\aluno\Desktop\Estudio\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Estudio\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Estudio\Estudio\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\aluno\Desktop\Estudio\Estudio\obj\Debug\Estudio.exe
+C:\Users\aluno\Desktop\Estudio\Estudio\obj\Debug\Estudio.pdb
+C:\Users\aluno\Desktop\Estudio\Estudio\obj\Debug\Estudio.Form2.resources
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\bin\Debug\Estudio.exe
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\bin\Debug\Estudio.pdb
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.Form2.resources
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.exe
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.pdb
+C:\Users\aluno\Desktop\Projeto\Estudio\Estudio\obj\Debug\Estudio.Form3.resources
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\bin\Debug\Estudio.exe
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\bin\Debug\Estudio.pdb
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.Form2.resources
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.Form3.resources
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.exe
+C:\Users\aluno\Downloads\Estudio nao nosso\Estudio nao nosso\Estudio\Estudio\obj\Debug\Estudio.pdb
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.Form2.resources
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.Form3.resources
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.Form4.resources
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.Form5.resources
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.Form6.resources
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.FormConsultar.resources
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.exe
+C:\Users\Sofia\Downloads\Estudio TERMINAR ATUALIZAR-20230924T111928Z-001\Estudio TERMINAR ATUALIZAR\Estudio TERMINAR ATUALIZAR\Estudio\obj\Debug\Estudio.pdb
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.Form2.resources
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.Form3.resources
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.Form4.resources
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.Form5.resources
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.Form6.resources
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.FormConsultar.resources
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.exe
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.pdb
+C:\Users\aluno\Downloads\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\aluno\Downloads\Estudio\bin\Debug\Estudio.exe
+C:\Users\aluno\Downloads\Estudio\bin\Debug\Estudio.pdb
+C:\Users\aluno\Downloads\Estudio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Downloads\Estudio\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Downloads\Estudio\obj\Debug\Estudio.csproj.CopyComplete
