@@ -158,6 +158,7 @@ namespace Estudio
             this.Controls.Add(this.grpbModalidades);
             this.Name = "FormConsultar";
             this.Text = "Consultar Modalidade";
+            this.Load += new System.EventHandler(this.FormConsultar_Load);
             this.grpbModalidades.ResumeLayout(false);
             this.grpbModalidades.PerformLayout();
             this.ResumeLayout(false);

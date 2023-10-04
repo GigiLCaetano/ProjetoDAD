@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,14 @@ namespace Estudio
         public FormConsultar()
         {
             InitializeComponent();
+            Modalidade modalidade = new Modalidade();
+            MySqlDataReader resultado = modalidade.consultarTodasModalidade();
+
+            while (resultado.Read())
+                cmbDescricao.Items.Add(resultado["descricaoModalidade"].ToString());
+
+            DAO_Conexao.con.Close();
+
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -38,6 +47,11 @@ namespace Estudio
         }
 
         private void btnConsultarMod_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FormConsultar_Load(object sender, EventArgs e)
         {
 
         }

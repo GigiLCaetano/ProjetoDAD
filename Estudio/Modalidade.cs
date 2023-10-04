@@ -84,7 +84,32 @@ namespace Estudio
             }
             return existe;
         }
-        
+
+        public MySqlDataReader consultarTodasModalidade()
+        {
+            bool existe = false;
+            MySqlDataReader resultado = null;
+            try
+            {
+                DAO_Conexao.con.Open();
+                MySqlCommand consulta = new MySqlCommand("SELECT * FROM Estudio_Modalidade", DAO_Conexao.con);
+                resultado = consulta.ExecuteReader();
+                if (resultado.Read())
+                {
+                    existe = true;
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+            finally
+            {
+                //DAO_Conexao.con.Close();
+            }
+            return resultado;
+        }
+
         public bool atualizarModalidade()
         {
             bool exc = false;
